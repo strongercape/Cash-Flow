@@ -1,7 +1,7 @@
 Custom Non-Commercial License
 Version 1.2
 
-Copyright (c) 2026 Paul (strongercape), Andre
+Copyright (c) 2026 Paul (strongercape), Andre (kipfandre2)
 
 1. Grant of License
 The author hereby grants any person obtaining a copy of this software (the "Software")
